@@ -1,0 +1,16 @@
+package
+{
+   import flash.display.MovieClip;
+   
+   [Embed(source="/_assets/assets.swf", symbol="symbol12889")]
+   public dynamic class fireballMc extends MovieClip
+   {
+      public var fire:MovieClip;
+      
+      public function fireballMc()
+      {
+         super();
+      }
+   }
+}
+

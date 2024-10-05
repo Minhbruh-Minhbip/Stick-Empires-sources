@@ -1,0 +1,14 @@
+package
+{
+   import flash.display.MovieClip;
+   
+   [Embed(source="/_assets/assets.swf", symbol="symbol12653")]
+   public dynamic class smokeFromFireElement extends MovieClip
+   {
+      public function smokeFromFireElement()
+      {
+         super();
+      }
+   }
+}
+

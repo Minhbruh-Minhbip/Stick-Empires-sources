@@ -1,0 +1,14 @@
+package
+{
+   import flash.display.MovieClip;
+   
+   [Embed(source="/_assets/assets.swf", symbol="symbol11255")]
+   public dynamic class randomMapMc extends MovieClip
+   {
+      public function randomMapMc()
+      {
+         super();
+      }
+   }
+}
+

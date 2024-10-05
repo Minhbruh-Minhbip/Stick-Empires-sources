@@ -1,0 +1,14 @@
+package
+{
+   import flash.display.MovieClip;
+   
+   [Embed(source="/_assets/assets.swf", symbol="symbol14166")]
+   public dynamic class thornCursorMc extends MovieClip
+   {
+      public function thornCursorMc()
+      {
+         super();
+      }
+   }
+}
+

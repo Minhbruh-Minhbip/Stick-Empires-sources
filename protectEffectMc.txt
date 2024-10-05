@@ -1,0 +1,14 @@
+package
+{
+   import flash.display.MovieClip;
+   
+   [Embed(source="/_assets/assets.swf", symbol="symbol12708")]
+   public dynamic class protectEffectMc extends MovieClip
+   {
+      public function protectEffectMc()
+      {
+         super();
+      }
+   }
+}
+

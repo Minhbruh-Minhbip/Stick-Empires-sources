@@ -1,0 +1,14 @@
+package
+{
+   import flash.display.MovieClip;
+   
+   [Embed(source="/_assets/assets.swf", symbol="symbol13243")]
+   public dynamic class firewaterexplosionMc extends MovieClip
+   {
+      public function firewaterexplosionMc()
+      {
+         super();
+      }
+   }
+}
+

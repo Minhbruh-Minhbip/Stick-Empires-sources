@@ -1,0 +1,16 @@
+package
+{
+   import flash.display.MovieClip;
+   
+   [Embed(source="/_assets/assets.swf", symbol="symbol12609")]
+   public dynamic class moundMc extends MovieClip
+   {
+      public var dirtmount:MovieClip;
+      
+      public function moundMc()
+      {
+         super();
+      }
+   }
+}
+

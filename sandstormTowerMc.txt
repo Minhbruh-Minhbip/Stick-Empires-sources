@@ -1,0 +1,16 @@
+package
+{
+   import flash.display.MovieClip;
+   
+   [Embed(source="/_assets/assets.swf", symbol="symbol12826")]
+   public dynamic class sandstormTowerMc extends MovieClip
+   {
+      public var mc:MovieClip;
+      
+      public function sandstormTowerMc()
+      {
+         super();
+      }
+   }
+}
+

@@ -1,0 +1,17 @@
+package
+{
+   import flash.display.MovieClip;
+   import flash.display.SimpleButton;
+   
+   [Embed(source="/_assets/assets.swf", symbol="symbol10254")]
+   public dynamic class gotoFacebookOption extends MovieClip
+   {
+      public var facebookButton:SimpleButton;
+      
+      public function gotoFacebookOption()
+      {
+         super();
+      }
+   }
+}
+

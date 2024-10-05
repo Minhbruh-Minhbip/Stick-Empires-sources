@@ -1,0 +1,14 @@
+package
+{
+   import flash.display.MovieClip;
+   
+   [Embed(source="/_assets/assets.swf", symbol="symbol14097")]
+   public dynamic class gatesBackground extends MovieClip
+   {
+      public function gatesBackground()
+      {
+         super();
+      }
+   }
+}
+

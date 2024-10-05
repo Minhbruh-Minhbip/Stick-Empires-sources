@@ -1,0 +1,16 @@
+package
+{
+   import flash.display.MovieClip;
+   
+   [Embed(source="/_assets/assets.swf", symbol="symbol1732")]
+   public dynamic class _bodyfireburn extends MovieClip
+   {
+      public var airburnchest:MovieClip;
+      
+      public function _bodyfireburn()
+      {
+         super();
+      }
+   }
+}
+

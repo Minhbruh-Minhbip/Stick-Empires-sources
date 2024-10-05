@@ -1,0 +1,14 @@
+package
+{
+   import flash.display.MovieClip;
+   
+   [Embed(source="/_assets/assets.swf", symbol="symbol12996")]
+   public dynamic class tornadoMc extends MovieClip
+   {
+      public function tornadoMc()
+      {
+         super();
+      }
+   }
+}
+

@@ -1,0 +1,14 @@
+package
+{
+   import flash.display.MovieClip;
+   
+   [Embed(source="/_assets/assets.swf", symbol="symbol9633")]
+   public dynamic class _lavabackfoot extends MovieClip
+   {
+      public function _lavabackfoot()
+      {
+         super();
+      }
+   }
+}
+

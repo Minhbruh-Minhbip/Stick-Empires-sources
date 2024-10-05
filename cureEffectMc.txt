@@ -1,0 +1,14 @@
+package
+{
+   import flash.display.MovieClip;
+   
+   [Embed(source="/_assets/assets.swf", symbol="symbol13594")]
+   public dynamic class cureEffectMc extends MovieClip
+   {
+      public function cureEffectMc()
+      {
+         super();
+      }
+   }
+}
+
